@@ -1,2 +1,2 @@
-You need to have Metamask extention installed on your browser to mint NFT.
-This works with Rinkeby testnet. Not the main net. So don't worry about losing money.
+Please add metamask wallet extention on your Google Chrome browser first and set up an account on rinkeby testnet (Testnet allows pseudo currency for development and testing).
+             And open the link from chrome browser as other browsers don't supprot web3 applications well.  
